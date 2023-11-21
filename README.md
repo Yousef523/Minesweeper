@@ -1,15 +1,3 @@
-# Digital design worksheet 2
-
-
-
-```
-cd existing_repo
-git remote add origin https://gitlab.uwe.ac.uk/y5-ali/digital-design-worksheet-2.git
-git branch -M main
-git push -uf origin main
-```
-
-
 
 <h1 align="center"> Minesweeper </h1>
 
